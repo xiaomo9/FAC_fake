@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./CViT-main/CViT-main/model",
+        "./CViT-main/CViT-main/helpers"
+    ]
+}
